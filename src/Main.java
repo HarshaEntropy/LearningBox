@@ -8,6 +8,8 @@ public class Main {
         System.out.println("first "+cmd[0]);
         String krishana =cmd[1];
         System.out.println("Second "+krishana);
-//        System.out.println("Hello world!");
+        System.out.println("Happy birthday Day" +
+                "love you my dear!");
+        System.out.println("Hello world!");
     }
 }
